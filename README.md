@@ -1,0 +1,67 @@
+# Official髭男dism – Tell Me Baby
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+最上級の過去を装って
+聖人君子のマスクかぶって
+そんなこんなで積み上げた斜塔は
+かなりヤバイぜ
+風が吹けばfallin'
+誰もがうらやむ君は喜望峰
+高嶺の花めがけ帆を張る登山僧の
+圧が圧がかなり高くてつらいぜ
+正直怖いぜ
+I don't want to leave here
+夢を見せないで
+さめないふり続けるなんて
+Oh can't believe it
+できるわけないね
+だから全てをぶつけて
+tell me tell me tell me baby
+交換してmyself
+ベッドの隅で泣いてないでちゃんと
+話して
+tell me tell me tell me baby
+隠そうとしないで
+give me more(want to know)give
+me more
+tell me tell me tell me baby
+暗闇に混じって
+有る事無い事並べないでちゃんと話
+して
+tell me tell me tell me baby
+謎を解き明かして
+give me more(want to know)give
+me more
+最大級にキャリアかさまして
+野菜嫌いをひたひたに隠して
+そんなこんなを画してる壁は
+すぐに壊して早急に落として
+うつむくその目に見透かされる僕と
+見透かし返すことのできない僕との
+圧が圧がかなり高くてつらいぜ
+心折れてfallin'
+I don't want to leave here
+虚勢を張らないで
+張られたままの夜明けなんて
+Oh can't believe it
+ひとえに未来のために全てをぶつけ
+て
+tell me tell me tell me baby
+交換してmyself
+ベッドの隅で泣いてないでちゃんと
+話して
+tell me tell me tell me baby
+隠そうとしないで
+give me more(want to know)give
+me more
+tell me tell me tell me baby
+もっと教えて
+いいとこ取りした大人同士で結んだ
+三角形
+tell me tell me tell me baby
+謎を解き明かして
+give me more(want to know)give
+me more
+```
