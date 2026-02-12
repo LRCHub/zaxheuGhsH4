@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tell Me Baby",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-12T14:13:51.947691Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/01_Tell_Me_Baby_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/02_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tell Me, Tell Me...Baby",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/03_Tell_Me,_Tell_Me...Baby_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tell Me Baby  (2014 Remaster)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/05_Tell_Me_Baby_(2014_Remaster)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/06_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/07_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/08_Tell_Me_Baby_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/09_Tell_Me_Baby_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/10_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tell Me Baby (2014 Remaster)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/11_Tell_Me_Baby_(2014_Remaster)_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/12_Tell_Me_Baby_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tell Me, Tell Me… Baby",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/13_Tell_Me,_Tell_Me..._Baby_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tell Me Baby",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/14_Tell_Me_Baby_Super_Junior.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tell Me Baby",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Tell_Me_Baby_Official髭男dism.txt"
+    }
+  ]
+}
